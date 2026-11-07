@@ -1,0 +1,14 @@
+/home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/deps/serde-9b6caba1693c2a49.d: /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/build/serde-c0b26b6de1106a3d/out/private.rs
+
+/home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/deps/libserde-9b6caba1693c2a49.rlib: /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/build/serde-c0b26b6de1106a3d/out/private.rs
+
+/home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/deps/libserde-9b6caba1693c2a49.rmeta: /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/build/serde-c0b26b6de1106a3d/out/private.rs
+
+/home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/mario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/build/serde-c0b26b6de1106a3d/out/private.rs:
+
+# env-dep:OUT_DIR=/home/mario/Documents/Projects/Rust/prueba_tecnica/target/x86_64-pc-windows-gnu/release/build/serde-c0b26b6de1106a3d/out
